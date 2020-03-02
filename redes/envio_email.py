@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-senha = 'AUQPJl9I6xh5'
-
-
-
-
-
-
-
+senha = ''
 
 
 
